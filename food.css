@@ -1,0 +1,269 @@
+
+#nav-links {
+    color: black;
+    font-family: "Roboto";
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+}
+
+.banner-background {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.get-to-head {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.eat {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+
+}
+
+.view-button {
+    background-color: #d0b200;
+    height: 60px;
+    width: 150px;
+    border-radius: 8px;
+    border-width: 0px;
+    color: #ffffff;
+    font-size: 22px;
+    margin-right: 20px;
+
+}
+
+.order-button {
+    background-color: transparent;
+    height: 60px;
+    width: 150px;
+    border-radius: 8px;
+    border-width: 2px;
+    color: #d0b200;
+    font-size: 22px;
+    border-color: #d0b200;
+    border-style: solid;
+
+}
+
+.why-choosen {
+    background-color: #f9fbfe;
+}
+
+.why-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.why-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.food-service-card {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.food-service-head {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.food-service-para {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.offer {
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.menu-section-background {
+    background-color: white;
+}
+
+.menu-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-card {
+    background-color: white;
+    border-radius: 15px;
+    border-radius: 8px;
+}
+
+.menu-imagee {
+    border-radius: 15px;
+}
+
+.menu-nonveg-head {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.healthy-foodsection-back {
+    background-color: #f9fbfe;
+}
+
+.healthy-foodsection-img {
+    width: 240px;
+}
+
+.healthy-food-section-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.healthy-food-section-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.healthy-food-section-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+
+}
+
+.delivery-and-payment-back {
+    background-color: white;
+    border-radius: 8px;
+}
+
+.delivery-and-payment-img {
+    width: 260px;
+}
+
+.delivery-and-payment-section-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px
+}
+
+.delivery-and-payment-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.payment-imgs {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-back {
+    background-image: radial-gradient(#fff8db, #fae38c);
+    border-radius: 8px;
+}
+
+.thanking-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-imag {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.thanking-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.follow-us-background {
+    background-color: white;
+    border-radius: 8px;
+}
+
+.follow-us-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.icons {
+    color: #d0b200;
+    font-size: 40px;
+
+}
+
+.icons-back {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    padding-top: 18px;
+    padding-left: 20px;
+    margin: 30px;
+
+}
